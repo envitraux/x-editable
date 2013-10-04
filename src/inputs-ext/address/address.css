@@ -7,3 +7,8 @@
     width: 70px;  
     display: inline-block;
 }
+
+.boldName
+{
+    font-weight: 600; color:blue;
+}
